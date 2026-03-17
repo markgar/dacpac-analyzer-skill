@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DacOrigin xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <PackageProperties>
+    <Version>3.1.0.0</Version>
+    <ContainsExportedData>true</ContainsExportedData>
+    <StreamVersions>
+      <Version StreamName="Data">2.0.0.0</Version>
+      <Version StreamName="DeploymentContributors">1.0.0.0</Version>
+    </StreamVersions>
+  </PackageProperties>
+  <Operation>
+    <Identity>71deda12-b11c-49eb-b23e-846e415a6b3c</Identity>
+    <Start>2016-06-08T10:30:52.8596485-07:00</Start>
+    <End>0001-01-01T00:00:00.0000000</End>
+    <ProductName>Microsoft.SqlServer.Dac, Version=13.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</ProductName>
+    <ProductVersion>13.0.3330.1</ProductVersion>
+    <ProductSchema>http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02</ProductSchema>
+  </Operation>
+  <Server>
+    <ServerVersion>Microsoft SQL Server 2016 (RTM) - 13.0.1601.5 (X64) 
+	Apr 29 2016 23:23:58 
+	Copyright (c) Microsoft Corporation
+	Enterprise Evaluation Edition (64-bit) on Windows Server 2012 R2 Datacenter 6.3 &lt;X64&gt; (Build 9600: ) (Hypervisor)
+</ServerVersion>
+    <ObjectCounts>
+      <ColumnStoreIndex>6</ColumnStoreIndex>
+      <ComputedColumn>28</ComputedColumn>
+      <DatabaseOptions>1</DatabaseOptions>
+      <DefaultConstraint>8</DefaultConstraint>
+      <ExtendedProperty>235</ExtendedProperty>
+      <Filegroup>2</Filegroup>
+      <ForeignKeyConstraint>29</ForeignKeyConstraint>
+      <Index>39</Index>
+      <InlineTableValuedFunction>1</InlineTableValuedFunction>
+      <PartitionFunction>1</PartitionFunction>
+      <PartitionScheme>1</PartitionScheme>
+      <PartitionValue>6</PartitionValue>
+      <PermissionStatement>2</PermissionStatement>
+      <PrimaryKeyConstraint>29</PrimaryKeyConstraint>
+      <Procedure>24</Procedure>
+      <Schema>8</Schema>
+      <ScriptFunctionImplementation>1</ScriptFunctionImplementation>
+      <Sequence>8</Sequence>
+      <SimpleColumn>370</SimpleColumn>
+      <SubroutineParameter>10</SubroutineParameter>
+      <Table>29</Table>
+    </ObjectCounts>
+  </Server>
+  <ExportStatistics>
+    <SourceDatabaseSize>332576</SourceDatabaseSize>
+    <TableRowCountTotalTag>923643</TableRowCountTotalTag>
+  </ExportStatistics>
+  <Checksums>
+    <Checksum Uri="/model.xml">952316E13332299C3B281F39BD84B66F345AA048E02E48C31E9C929B7B4D7750</Checksum>
+  </Checksums>
+  <ModelSchemaVersion>2.9</ModelSchemaVersion>
+</DacOrigin>

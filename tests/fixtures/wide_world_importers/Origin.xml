@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DacOrigin xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <PackageProperties>
+    <Version>3.1.0.0</Version>
+    <ContainsExportedData>true</ContainsExportedData>
+    <StreamVersions>
+      <Version StreamName="Data">2.0.0.0</Version>
+      <Version StreamName="DeploymentContributors">1.0.0.0</Version>
+    </StreamVersions>
+  </PackageProperties>
+  <Operation>
+    <Identity>30485da9-57f8-4eca-95ae-d04449beee1f</Identity>
+    <Start>2022-10-07T14:46:00.3747695-07:00</Start>
+    <End>0001-01-01T00:00:00.0000000</End>
+    <ProductName>Microsoft.SqlServer.Dac, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</ProductName>
+    <ProductVersion>15.0.5179.2</ProductVersion>
+    <ProductSchema>http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02</ProductSchema>
+  </Operation>
+  <Server>
+    <ServerVersion>Microsoft SQL Server 2016 (RTM) - 13.0.1601.5 (X64) 
+	Apr 29 2016 23:23:58 
+	Copyright (c) Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Enterprise 6.3 &lt;X64&gt; (Build 22621: ) (Hypervisor)
+</ServerVersion>
+    <ObjectCounts>
+      <CheckConstraint>3</CheckConstraint>
+      <ColumnStoreIndex>3</ColumnStoreIndex>
+      <ComputedColumn>42</ComputedColumn>
+      <DatabaseOptions>1</DatabaseOptions>
+      <DataCompressionOption>17</DataCompressionOption>
+      <DefaultConstraint>41</DefaultConstraint>
+      <ExtendedProperty>400</ExtendedProperty>
+      <Filegroup>2</Filegroup>
+      <ForeignKeyConstraint>98</ForeignKeyConstraint>
+      <Index>96</Index>
+      <PartitionFunction>2</PartitionFunction>
+      <PartitionScheme>2</PartitionScheme>
+      <PartitionValue>8</PartitionValue>
+      <PermissionStatement>2</PermissionStatement>
+      <PrimaryKeyConstraint>31</PrimaryKeyConstraint>
+      <Procedure>42</Procedure>
+      <Role>9</Role>
+      <ScalarFunction>1</ScalarFunction>
+      <Schema>10</Schema>
+      <ScriptFunctionImplementation>1</ScriptFunctionImplementation>
+      <Sequence>26</Sequence>
+      <SimpleColumn>636</SimpleColumn>
+      <SubroutineParameter>64</SubroutineParameter>
+      <Table>48</Table>
+      <TableType>4</TableType>
+      <TableTypeIndex>1</TableTypeIndex>
+      <TableTypeIndexedColumnSpecification>4</TableTypeIndexedColumnSpecification>
+      <TableTypePrimaryKeyConstraint>3</TableTypePrimaryKeyConstraint>
+      <TableTypeSimpleColumn>17</TableTypeSimpleColumn>
+      <UniqueConstraint>17</UniqueConstraint>
+      <View>3</View>
+    </ObjectCounts>
+  </Server>
+  <ExportStatistics>
+    <SourceDatabaseSize>518120</SourceDatabaseSize>
+    <TableRowCountTotalTag>4713833</TableRowCountTotalTag>
+  </ExportStatistics>
+  <Checksums>
+    <Checksum Uri="/model.xml">A770BAC67195F6D29AAB695C128FBE4C9A03C3FEF49921D323C3672D41B76A5F</Checksum>
+  </Checksums>
+  <ModelSchemaVersion>2.9</ModelSchemaVersion>
+</DacOrigin>
