@@ -1,0 +1,19 @@
+{
+  "name": "dacpac-analyzer",
+  "metadata": {
+    "description": "Analyze SQL Server .dacpac and .bacpac packages — extract tables, views, stored procedures, functions, constraints, indexes, schemas, and full database schema metadata.",
+    "version": "0.1.0",
+    "pluginRoot": "."
+  },
+  "owner": {
+    "name": "Mark Garner"
+  },
+  "plugins": [
+    {
+      "name": "dacpac-analyzer",
+      "source": ".",
+      "description": "Analyze SQL Server .dacpac and .bacpac packages — extract tables, views, stored procedures, functions, constraints, indexes, schemas, and full database schema metadata.",
+      "version": "0.1.0"
+    }
+  ]
+}
